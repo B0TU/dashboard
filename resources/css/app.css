@@ -1,0 +1,19 @@
+
+
+@import '../assets/vendor/fonts/boxicons.css';
+
+@import '../assets/vendor/css/core.css';
+@import '../assets/vendor/css/theme.css';
+
+@import '../assets/vendor/css/vendor/select2.css';
+
+/* @import '../assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css'; */
+
+.total-icons {
+    position: absolute;
+    right: 5px;
+    font-size: 50px;
+    right: 20px;
+    /* background-color: #ff69eb3d; */
+    color: #F65A54;
+}
